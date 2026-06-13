@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-<!--
-**boredistan/boredistan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Idk what tbh I was just told I can make a readme so yeah 
+Cats are good 
+<!--
+**boredistan/boredistan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
